@@ -355,7 +355,7 @@ static const bagl_element_t bagl_ui_text_review_nanos[] = {
     {
         {BAGL_LABELINE, 0x02, 23, 26, 82, 11, 0x80 | 10, 0, 0, 0xFFFFFF,
          0x000000, BAGL_FONT_OPEN_SANS_EXTRABOLD_11px | BAGL_FONT_ALIGNMENT_CENTER, 26},
-        lineBuffer,
+        "0.00000000004352",
         0,
         0,
         0,
